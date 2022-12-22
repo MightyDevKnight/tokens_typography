@@ -1,0 +1,398 @@
+{
+  "size": {
+    "0": {
+      "value": "0px",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "{size._base}/8",
+      "type": "sizing"
+    },
+    "25": {
+      "value": "{size._base}/4",
+      "type": "sizing"
+    },
+    "50": {
+      "value": "{size._base}/2",
+      "type": "sizing"
+    },
+    "75": {
+      "value": "{size._base}*0.75",
+      "type": "sizing"
+    },
+    "100": {
+      "value": "{size._base}",
+      "type": "sizing"
+    },
+    "125": {
+      "value": "{size._base}*1.25",
+      "type": "sizing"
+    },
+    "150": {
+      "value": "{size._base}*1.5",
+      "type": "sizing"
+    },
+    "175": {
+      "value": "{size._base}*1.75",
+      "type": "sizing"
+    },
+    "200": {
+      "value": "{size._base}*2",
+      "type": "sizing"
+    },
+    "225": {
+      "value": "{size._base}*2.25",
+      "type": "sizing"
+    },
+    "250": {
+      "value": "{size._base}*2.50",
+      "type": "sizing"
+    },
+    "275": {
+      "value": "{size._base}*2.75",
+      "type": "sizing"
+    },
+    "300": {
+      "value": "{size._base}*3",
+      "type": "sizing"
+    },
+    "400": {
+      "value": "{size._base}*4",
+      "type": "sizing"
+    },
+    "450": {
+      "value": "{size._base}*4.5",
+      "type": "sizing"
+    },
+    "500": {
+      "value": "{size._base}*5",
+      "type": "sizing"
+    },
+    "600": {
+      "value": "{size._base}*6",
+      "type": "sizing"
+    },
+    "700": {
+      "value": "{size._base}*7",
+      "type": "sizing"
+    },
+    "800": {
+      "value": "{size._base}*8",
+      "type": "sizing"
+    },
+    "900": {
+      "value": "{size._base}*9",
+      "type": "sizing"
+    },
+    "1000": {
+      "value": "{size._base}*10",
+      "type": "sizing"
+    },
+    "1200": {
+      "value": "{size._base}*12",
+      "type": "sizing"
+    },
+    "1400": {
+      "value": "{size._base}*14",
+      "type": "sizing"
+    },
+    "1500": {
+      "value": "{size._base}*15",
+      "type": "sizing"
+    },
+    "1600": {
+      "value": "{size._base}*16",
+      "type": "sizing"
+    },
+    "1800": {
+      "value": "{size._base}*18",
+      "type": "sizing"
+    },
+    "2000": {
+      "value": "{size._base}*20",
+      "type": "sizing"
+    },
+    "2200": {
+      "value": "{size._base}*22",
+      "type": "sizing"
+    },
+    "2400": {
+      "value": "{size._base}*24",
+      "type": "sizing"
+    },
+    "2500": {
+      "value": "{size._base}*25",
+      "type": "sizing"
+    },
+    "2600": {
+      "value": "{size._base}*26",
+      "type": "sizing"
+    },
+    "2800": {
+      "value": "{size._base}*28",
+      "type": "sizing"
+    },
+    "3000": {
+      "value": "{size._base}*30",
+      "type": "sizing"
+    },
+    "3200": {
+      "value": "{size._base}*32",
+      "type": "sizing"
+    },
+    "3400": {
+      "value": "{size._base}*34",
+      "type": "sizing"
+    },
+    "3600": {
+      "value": "{size._base}*36",
+      "type": "sizing"
+    },
+    "3800": {
+      "value": "{size._base}*38",
+      "type": "sizing"
+    },
+    "_base": {
+      "value": "8",
+      "type": "sizing"
+    }
+  },
+  "space": {
+    "0": {
+      "value": "0px",
+      "type": "spacing"
+    },
+    "12": {
+      "value": "{space._base}/8",
+      "type": "spacing"
+    },
+    "25": {
+      "value": "{space._base}/4",
+      "type": "spacing"
+    },
+    "50": {
+      "value": "{space._base}/2",
+      "type": "spacing"
+    },
+    "75": {
+      "value": "{space._base}*0.75",
+      "type": "spacing"
+    },
+    "100": {
+      "value": "{space._base}",
+      "type": "spacing"
+    },
+    "125": {
+      "value": "{space._base}*1.25",
+      "type": "spacing"
+    },
+    "150": {
+      "value": "{space._base}*1.5",
+      "type": "spacing"
+    },
+    "175": {
+      "value": "{space._base}*1.75",
+      "type": "spacing"
+    },
+    "200": {
+      "value": "{space._base}*2",
+      "type": "spacing"
+    },
+    "225": {
+      "value": "{space._base}*2.25",
+      "type": "spacing"
+    },
+    "250": {
+      "value": "{space._base}*2.50",
+      "type": "spacing"
+    },
+    "275": {
+      "value": "{space._base}*2.75",
+      "type": "spacing"
+    },
+    "300": {
+      "value": "{space._base}*3",
+      "type": "spacing"
+    },
+    "400": {
+      "value": "{space._base}*4",
+      "type": "spacing"
+    },
+    "450": {
+      "value": "{space._base}*4.5",
+      "type": "spacing"
+    },
+    "500": {
+      "value": "{space._base}*5",
+      "type": "spacing"
+    },
+    "600": {
+      "value": "{space._base}*6",
+      "type": "spacing"
+    },
+    "700": {
+      "value": "{space._base}*7",
+      "type": "spacing"
+    },
+    "800": {
+      "value": "{space._base}*8",
+      "type": "spacing"
+    },
+    "900": {
+      "value": "{space._base}*9",
+      "type": "spacing"
+    },
+    "1000": {
+      "value": "{space._base}*10",
+      "type": "spacing"
+    },
+    "1200": {
+      "value": "{space._base}*12",
+      "type": "spacing"
+    },
+    "1400": {
+      "value": "{space._base}*14",
+      "type": "spacing"
+    },
+    "1500": {
+      "value": "{space._base}*15",
+      "type": "spacing"
+    },
+    "1600": {
+      "value": "{space._base}*16",
+      "type": "spacing"
+    },
+    "1800": {
+      "value": "{space._base}*18",
+      "type": "spacing"
+    },
+    "2000": {
+      "value": "{space._base}*20",
+      "type": "spacing"
+    },
+    "2200": {
+      "value": "{space._base}*22",
+      "type": "spacing"
+    },
+    "2400": {
+      "value": "{space._base}*24",
+      "type": "spacing"
+    },
+    "2500": {
+      "value": "{space._base}*25",
+      "type": "spacing"
+    },
+    "2600": {
+      "value": "{space._base}*26",
+      "type": "spacing"
+    },
+    "2800": {
+      "value": "{space._base}*28",
+      "type": "spacing"
+    },
+    "3000": {
+      "value": "{space._base}*30",
+      "type": "spacing"
+    },
+    "3200": {
+      "value": "{space._base}*32",
+      "type": "spacing"
+    },
+    "3400": {
+      "value": "{space._base}*34",
+      "type": "spacing"
+    },
+    "3600": {
+      "value": "{space._base}*36",
+      "type": "spacing"
+    },
+    "3800": {
+      "value": "{space._base}*38",
+      "type": "spacing"
+    },
+    "_base": {
+      "value": "8",
+      "type": "spacing"
+    }
+  },
+  "borderWidth": {
+    "0": {
+      "value": "0px",
+      "type": "borderWidth"
+    },
+    "12": {
+      "value": "{borderWidth._base}/4",
+      "type": "borderWidth"
+    },
+    "25": {
+      "value": "{borderWidth._base}/2",
+      "type": "borderWidth"
+    },
+    "38": {
+      "value": "{borderWidth._base}*.75",
+      "type": "borderWidth"
+    },
+    "50": {
+      "value": "{borderWidth._base}/2",
+      "type": "borderWidth"
+    },
+    "06": {
+      "value": "{borderWidth._base}/8",
+      "type": "borderWidth"
+    },
+    "_base": {
+      "value": "4",
+      "type": "borderWidth"
+    }
+  },
+  "radius": {
+    "0": {
+      "value": "0px",
+      "type": "borderRadius"
+    },
+    "12": {
+      "value": "{radius._base}/8",
+      "type": "borderRadius"
+    },
+    "25": {
+      "value": "{radius._base}/4",
+      "type": "borderRadius"
+    },
+    "50": {
+      "value": "{radius._base}/2",
+      "type": "borderRadius"
+    },
+    "75": {
+      "value": "{radius._base}*0.75",
+      "type": "borderRadius"
+    },
+    "100": {
+      "value": "{radius._base}",
+      "type": "borderRadius"
+    },
+    "200": {
+      "value": "{radius._base}*2",
+      "type": "borderRadius"
+    },
+    "400": {
+      "value": "{radius._base}*4",
+      "type": "borderRadius"
+    },
+    "600": {
+      "value": "{radius._base}*6",
+      "type": "borderRadius"
+    },
+    "1000": {
+      "value": "{radius._base}*10",
+      "type": "borderRadius"
+    },
+    "10000": {
+      "value": "{radius._base}*100",
+      "type": "borderRadius"
+    },
+    "_base": {
+      "value": "8",
+      "type": "borderRadius"
+    }
+  }
+}

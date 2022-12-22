@@ -1,0 +1,86 @@
+{
+  "avatar": {
+    "font-color": {
+      "value": "{semantic.color.navigation.font}",
+      "type": "color"
+    },
+    "icon-color": {
+      "value": "{semantic.color.navigation.icon}",
+      "type": "color"
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.navigation.default}",
+      "type": "borderRadius"
+    },
+    "s": {
+      "height": {
+        "value": "{semantic.size.navigation.s}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.size.navigation.s}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.size.navigation.icon-size.s}",
+        "type": "sizing"
+      }
+    },
+    "m": {
+      "height": {
+        "value": "{semantic.size.navigation.m}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.size.navigation.m}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.size.navigation.icon-size.m}",
+        "type": "sizing"
+      }
+    },
+    "l": {
+      "height": {
+        "value": "{semantic.size.navigation.l}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.size.navigation.l}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.size.navigation.icon-size.l}",
+        "type": "sizing"
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{semantic.size.navigation.xl}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.size.navigation.xl}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.size.navigation.icon-size.xl}",
+        "type": "sizing"
+      }
+    },
+    "background-color": {
+      "value": "{semantic.color.navigation.background}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{semantic.color.navigation.border}",
+      "type": "color"
+    },
+    "border-width": {
+      "m": {
+        "value": "{semantic.border-width.navigation}",
+        "type": "borderWidth"
+      }
+    }
+  }
+}

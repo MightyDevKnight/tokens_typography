@@ -1,0 +1,96 @@
+{
+  "card": {
+    "card-heading": {
+      "l": {
+        "typography": {
+          "value": "{semantic.typography.headlines.level-5}",
+          "type": "typography"
+        }
+      },
+      "m": {
+        "typography": {
+          "value": "{semantic.typography.headlines.level-6}",
+          "type": "typography"
+        }
+      },
+      "s": {
+        "typography": {
+          "value": {
+            "fontFamily": "{semantic.typography.label.bold.l.fontFamily}",
+            "fontWeight": "{semantic.typography.label.bold.l.fontWeight}",
+            "lineHeight": "{semantic.typography.label.bold.l.lineHeight}",
+            "fontSize": "{semantic.typography.label.bold.l.fontSize}",
+            "letterSpacing": "{semantic.typography.label.bold.l.letterSpacing}",
+            "paragraphSpacing": "{semantic.typography.label.bold.l.paragraphSpacing}",
+            "paragraphIndent": "none",
+            "textDecoration": "{semantic.typography.label.bold.l.textDecoration}",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "card-body": {
+      "regular": {
+        "l": {
+          "typography": {
+            "value": "{semantic.typography.headlines.level-5}",
+            "type": "typography"
+          }
+        },
+        "m": {
+          "typography": {
+            "value": "{semantic.typography.headlines.level-6}",
+            "type": "typography"
+          }
+        },
+        "s": {
+          "typography": {
+            "value": {
+              "fontFamily": "{semantic.typography.label.bold.l.fontFamily}",
+              "fontWeight": "{semantic.typography.label.bold.l.fontWeight}",
+              "lineHeight": "{semantic.typography.label.bold.l.lineHeight}",
+              "fontSize": "{semantic.typography.label.bold.l.fontSize}",
+              "letterSpacing": "{semantic.typography.label.bold.l.letterSpacing}",
+              "paragraphSpacing": "{semantic.typography.label.bold.l.paragraphSpacing}",
+              "paragraphIndent": "none",
+              "textDecoration": "{semantic.typography.label.bold.l.textDecoration}",
+              "textCase": "none"
+            },
+            "type": "typography"
+          }
+        },
+        "medium": {
+          "l": {
+            "typography": {
+              "value": "{semantic.typography.headlines.level-5}",
+              "type": "typography"
+            }
+          },
+          "m": {
+            "typography": {
+              "value": "{semantic.typography.headlines.level-6}",
+              "type": "typography"
+            }
+          },
+          "s": {
+            "typography": {
+              "value": {
+                "fontFamily": "{semantic.typography.label.bold.l.fontFamily}",
+                "fontWeight": "{semantic.typography.label.bold.l.fontWeight}",
+                "lineHeight": "{semantic.typography.label.bold.l.lineHeight}",
+                "fontSize": "{semantic.typography.label.bold.l.fontSize}",
+                "letterSpacing": "{semantic.typography.label.bold.l.letterSpacing}",
+                "paragraphSpacing": "{semantic.typography.label.bold.l.paragraphSpacing}",
+                "paragraphIndent": "none",
+                "textDecoration": "{semantic.typography.label.bold.l.textDecoration}",
+                "textCase": "none"
+              },
+              "type": "typography"
+            }
+          }
+        }
+      }
+    }
+  }
+}

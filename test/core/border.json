@@ -1,0 +1,12 @@
+{
+  "semantic": {
+    "size": {
+      "container": {
+        "s": {
+          "value": "{size.12}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

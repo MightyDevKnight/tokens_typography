@@ -1,0 +1,32 @@
+{
+  "semantic": {
+    "spacing": {
+      "ui": {
+        "l": {
+          "space-between": {
+            "value": "{space.1000}",
+            "type": "spacing"
+          }
+        },
+        "m": {
+          "space-between": {
+            "value": "{space.800}",
+            "type": "spacing"
+          }
+        },
+        "s": {
+          "space-between": {
+            "value": "{space.400}",
+            "type": "spacing"
+          }
+        },
+        "xs": {
+          "space-between": {
+            "value": "{space.300}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

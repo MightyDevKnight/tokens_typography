@@ -1,0 +1,36 @@
+{
+  "heading": {
+    "display": {
+      "level-1": {
+        "value": "{semantic.typography.display.level-1}",
+        "type": "typography"
+      }
+    },
+    "headline": {
+      "level-1": {
+        "value": "{semantic.typography.headlines.level-1}",
+        "type": "typography"
+      },
+      "level-2": {
+        "value": "{semantic.typography.headlines.level-2}",
+        "type": "typography"
+      },
+      "level-3": {
+        "value": "{semantic.typography.headlines.level-3}",
+        "type": "typography"
+      },
+      "level-4": {
+        "value": "{semantic.typography.headlines.level-4}",
+        "type": "typography"
+      },
+      "level-5": {
+        "value": "{semantic.typography.headlines.level-5}",
+        "type": "typography"
+      },
+      "level-6": {
+        "value": "{semantic.typography.headlines.level-6}",
+        "type": "typography"
+      }
+    }
+  }
+}

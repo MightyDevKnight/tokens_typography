@@ -1,0 +1,92 @@
+{
+  "semantic": {
+    "color": {
+      "primary": {
+        "default": {
+          "value": "{color.light.pink.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.light.pink.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.light.pink.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.light.pink.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.light.pink.l4}",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "{color.scale.neutral.white}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.light.pink.d1}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.midnight-light.violet.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.midnight-light.violet.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.midnight-light.violet.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.midnight-light.violet.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.midnight-light.violet.l2}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{color.scale.neutral.white}",
+          "type": "color"
+        }
+      },
+      "sparkle": {
+        "default": {
+          "value": "{color.light.marigold.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.light.marigold.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.light.marigold.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.light.marigold.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.light.marigold.l2}",
+          "type": "color"
+        },
+        "on-sparkle": {
+          "value": "{color.light.marigold.d3}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.light.marigold.base}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

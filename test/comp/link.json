@@ -1,0 +1,104 @@
+{
+  "link": {
+    "primary": {
+      "default": {
+        "font-color": {
+          "value": "{semantic.color.actions.primary.default.font}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "{semantic.color.info.default}",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "{semantic.color.primary.muted}",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "default": {
+        "font-color": {
+          "value": "{semantic.fg.dim}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "{semantic.fg.default}",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "{semantic.color.primary.muted}",
+          "type": "color"
+        }
+      }
+    },
+    "on-background": {
+      "default": {
+        "font-color": {
+          "value": "{semantic.color.primary.on-primary}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "{semantic.color.primary.discreet}",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "{semantic.color.primary.subtle}",
+          "type": "color"
+        }
+      }
+    },
+    "disabled": {
+      "font-color": {
+        "value": "{semantic.color.neutral.default}",
+        "type": "color"
+      }
+    },
+    "xl": {
+      "typography": {
+        "value": "{semantic.typography.body.bold.xl}",
+        "type": "typography"
+      }
+    },
+    "l": {
+      "typography": {
+        "value": "{semantic.typography.body.bold.l}",
+        "type": "typography"
+      }
+    },
+    "m": {
+      "typography": {
+        "value": "{semantic.typography.body.bold.m}",
+        "type": "typography"
+      }
+    },
+    "s": {
+      "typography": {
+        "value": "{semantic.typography.body.bold.s}",
+        "type": "typography"
+      }
+    },
+    "xs": {
+      "typography": {
+        "value": "{semantic.typography.body.bold.xs}",
+        "type": "typography"
+      }
+    },
+    "text-decoration": {
+      "value": "{text-decoration.underline}",
+      "type": "textDecoration"
+    }
+  }
+}

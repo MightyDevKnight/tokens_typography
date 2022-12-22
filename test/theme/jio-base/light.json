@@ -1,0 +1,118 @@
+{
+  "semantic": {
+    "color": {
+      "primary": {
+        "default": {
+          "value": "{color.light.navi.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.light.navi.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.light.navi.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.light.navi.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.light.navi.l4}",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "{color.scale.neutral.white}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.light.navi.d1}",
+          "type": "color"
+        }
+      },
+      "bold": {
+        "default": {
+          "value": "{color.light.navi.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.light.navi.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.light.navi.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.light.navi.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.light.navi.l4}",
+          "type": "color"
+        },
+        "on-bold": {
+          "value": "{color.scale.neutral.white}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.light.marigold.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.light.marigold.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.light.marigold.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.light.marigold.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.light.marigold.l2}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{color.light.marigold.d3}",
+          "type": "color"
+        }
+      },
+      "sparkle": {
+        "default": {
+          "value": "{color.light.mint.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.light.mint.d1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.light.mint.l1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.light.mint.l2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.light.mint.l2}",
+          "type": "color"
+        },
+        "on-sparkle": {
+          "value": "{color.light.mint.d3}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.light.mint.l1}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

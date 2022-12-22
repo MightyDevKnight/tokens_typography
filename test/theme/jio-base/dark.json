@@ -1,0 +1,92 @@
+{
+  "semantic": {
+    "color": {
+      "primary": {
+        "default": {
+          "value": "{color.dark.navi.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.dark.navi.l1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.dark.navi.d1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.dark.navi.d2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.dark.navi.d3}",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "{color.scale.neutral.white}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.dark.navi.l1}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.dark.marigold.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.dark.marigold.l1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.dark.marigold.d1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.dark.marigold.d2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.dark.marigold.d3}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{color.dark.marigold.d3}",
+          "type": "color"
+        }
+      },
+      "sparkle": {
+        "default": {
+          "value": "{color.dark.mint.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.dark.mint.l1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.dark.mint.d1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.dark.mint.d2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.dark.mint.d3}",
+          "type": "color"
+        },
+        "on-sparkle": {
+          "value": "{color.dark.mint.d3}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.dark.mint.d1}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

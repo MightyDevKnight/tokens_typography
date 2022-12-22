@@ -1,0 +1,50 @@
+{
+  "semantic": {
+    "size": {
+      "container": {
+        "s": {
+          "height": {
+            "value": "{size.12}",
+            "type": "sizing"
+          },
+          "width": {
+            "value": "{size.12}",
+            "type": "sizing"
+          }
+        },
+        "m": {
+          "height": {
+            "value": "{size.25}",
+            "type": "sizing"
+          },
+          "width": {
+            "value": "{size.25}",
+            "type": "sizing"
+          }
+        },
+        "l": {
+          "height": {
+            "value": "{size.50}",
+            "type": "sizing"
+          },
+          "width": {
+            "value": "{size.50}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "color": {
+      "container": {
+        "default": {
+          "value": "{semantic.color.neutral.default}",
+          "type": "color"
+        },
+        "on-background": {
+          "value": "{semantic.color.neutral.discreet}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

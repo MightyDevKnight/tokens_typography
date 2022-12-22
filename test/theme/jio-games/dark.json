@@ -1,0 +1,92 @@
+{
+  "semantic": {
+    "color": {
+      "primary": {
+        "default": {
+          "value": "{color.dark.green.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.dark.green.l1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.dark.green.d1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.dark.green.d2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.dark.green.d3}",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "{color.dark.green.d3}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.dark.green.l1}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.midnight-dark.mint.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.midnight-dark.mint.l1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.midnight-dark.mint.d1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.midnight-dark.mint.d2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.midnight-dark.mint.d3}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{color.midnight-dark.mint.l3}",
+          "type": "color"
+        }
+      },
+      "sparkle": {
+        "default": {
+          "value": "{color.dark.marigold.base}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{color.dark.marigold.l1}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.dark.marigold.d1}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.dark.marigold.d2}",
+          "type": "color"
+        },
+        "discreet": {
+          "value": "{color.dark.marigold.d3}",
+          "type": "color"
+        },
+        "on-sparkle": {
+          "value": "{color.dark.marigold.d3}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.dark.marigold.base}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "progress-bar": {
+    "default": {
+      "indicator": {
+        "background-color": {
+          "value": "{semantic.color.status.default.info.background}",
+          "type": "color"
+        }
+      },
+      "track": {
+        "background-color": {
+          "value": "{semantic.color.status.inverted.neutral.background}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "font-color": {
+          "value": "{semantic.color.status.inverted.neutral.font}",
+          "type": "color"
+        }
+      }
+    },
+    "on-background": {
+      "indicator": {
+        "background-color": {
+          "value": "{semantic.color.status.inverted.neutral.background}",
+          "type": "color"
+        }
+      },
+      "track": {
+        "background-color": {
+          "value": "{semantic.color.neutral.muted}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "font-color": {
+          "value": "{semantic.color.status.default.neutral.font}",
+          "type": "color"
+        }
+      }
+    },
+    "s": {
+      "gap": {
+        "value": "{semantic.space.status.s.space-between}",
+        "type": "spacing"
+      },
+      "label-typography": {
+        "value": "{semantic.typography.status.s}",
+        "type": "typography"
+      }
+    },
+    "m": {
+      "gap": {
+        "value": "{semantic.space.status.m.space-between}",
+        "type": "spacing"
+      },
+      "label-typography": {
+        "value": "{semantic.typography.status.m}",
+        "type": "typography"
+      }
+    },
+    "l": {
+      "gap": {
+        "value": "{semantic.space.status.l.space-between}",
+        "type": "spacing"
+      },
+      "label-typography": {
+        "value": "{semantic.typography.status.l}",
+        "type": "typography"
+      }
+    },
+    "xl": {
+      "gap": {
+        "value": "{semantic.space.status.xl.space-between}",
+        "type": "spacing"
+      },
+      "label-typography": {
+        "value": "{semantic.typography.status.xl}",
+        "type": "typography"
+      }
+    }
+  }
+}

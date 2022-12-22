@@ -1,0 +1,82 @@
+{
+  "body": {
+    "bold": {
+      "s": {
+        "typography": {
+          "value": "{semantic.typography.body.bold.s}",
+          "type": "typography"
+        }
+      },
+      "m": {
+        "typography": {
+          "value": "{semantic.typography.body.bold.m}",
+          "type": "typography"
+        }
+      },
+      "l": {
+        "typography": {
+          "value": "{semantic.typography.body.bold.l}",
+          "type": "typography"
+        }
+      },
+      "xs": {
+        "typography": {
+          "value": "{semantic.typography.body.bold.xs}",
+          "type": "typography"
+        }
+      }
+    },
+    "medium": {
+      "s": {
+        "typography": {
+          "value": "{semantic.typography.body.medium.s}",
+          "type": "typography"
+        }
+      },
+      "m": {
+        "typography": {
+          "value": "{semantic.typography.body.medium.m}",
+          "type": "typography"
+        }
+      },
+      "l": {
+        "typography": {
+          "value": "{semantic.typography.body.medium.l}",
+          "type": "typography"
+        }
+      },
+      "xs": {
+        "typography": {
+          "value": "{semantic.typography.body.medium.xs}",
+          "type": "typography"
+        }
+      }
+    },
+    "regular": {
+      "s": {
+        "typography": {
+          "value": "{semantic.typography.body.regular.s}",
+          "type": "typography"
+        }
+      },
+      "m": {
+        "typography": {
+          "value": "{semantic.typography.body.regular.m}",
+          "type": "typography"
+        }
+      },
+      "l": {
+        "typography": {
+          "value": "{semantic.typography.body.regular.l}",
+          "type": "typography"
+        }
+      },
+      "xs": {
+        "typography": {
+          "value": "{semantic.typography.body.regular.xs}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
